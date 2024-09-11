@@ -1,8 +1,7 @@
 # XORCryptor
 This is a basic implementation meant for educational purposes, showcasing how XOR encryption works.
 
-# Usage:
-Example:
+# Usage & Examples:
 
 XOR Encryption:
 
